@@ -1,0 +1,26 @@
+_repo: The-Song-of-the-Wolf_31930
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31930-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mayer, Frank
+    gutenberg_agent_id: '35563'
+    url: http://www.gutenberg.org/2009/agents/35563
+description: ''
+gutenberg_issued: '2010-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31930'
+  lccn: '10011139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Colorado -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Ranch life -- Fiction'
+title: The Song of the Wolf
+url: http://www.gutenberg.org/ebooks/31930
